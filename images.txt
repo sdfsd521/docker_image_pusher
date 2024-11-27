@@ -1,2 +1,2 @@
 xhofe/alist:latest
-hanhongyong/ms365-e5-renew-x:latest
+hanhongyong/ms365-e5-renew-x:general
