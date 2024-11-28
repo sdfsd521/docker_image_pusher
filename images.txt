@@ -1,2 +1,2 @@
 xhofe/alist:latest
-gladtbam/ms365_e5_renewx:latest
+platform=linux/arm64 gladtbam/ms365_e5_renewx:latest
