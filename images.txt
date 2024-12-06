@@ -1,2 +1,2 @@
 xhofe/alist:latest
---platform linux/arm64 gladtbam/ms365_e5_renewx
+--platform linux/arm64 anduin2017/how-to-cook
