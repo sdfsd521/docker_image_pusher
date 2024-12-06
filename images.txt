@@ -1,2 +1,2 @@
-xhofe/alist:latest
---platform linux/arm64 anduin2017/how-to-cook
+--platform linux/arm64 xhofe/alist
+anduin2017/how-to-cook:latest
