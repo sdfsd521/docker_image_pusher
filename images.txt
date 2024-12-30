@@ -1,3 +1,1 @@
---platform linux/arm64 xhofe/alist
-ichn/how-to-cook:latest
-linux/arm64 cloudnas/clouddrive2:latest
+--platform=linux/arm64 cloudnas/clouddrive2:latest
