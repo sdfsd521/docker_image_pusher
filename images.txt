@@ -1,1 +1,1 @@
---platform=linux/arm64 cloudnas/clouddrive2:latest
+--platform=linux/arm64 dingdangdog/cashbook:latest
