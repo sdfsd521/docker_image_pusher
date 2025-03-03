@@ -1,1 +1,1 @@
---platform=linux/arm64 dingdangdog/cashbook:latest
+--platform=linux/arm64 kangkang223/reader:latest
